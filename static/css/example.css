@@ -1,1 +1,8 @@
-.red-text{color:red;}
+.dev-checker{
+    opacity: 0.5;
+}
+
+.dev-checker.red-text{
+    opacity: 1;
+    color:red;
+}
