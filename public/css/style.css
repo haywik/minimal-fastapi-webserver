@@ -1,8 +1,8 @@
-.dev-checker{
+.css-checker{
     opacity: 0.5;
 }
 
-.dev-checker.red-text{
+.css-checker.red-text{
     opacity: 1;
     color:red;
 }
