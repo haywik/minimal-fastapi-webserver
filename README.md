@@ -1,9 +1,11 @@
 > [!WARNING]
-> - Avoid running as ROOT or SUDO at all costs
-> - Ideally use a container and unprivileged user
+> - Do not run as Root or Sudo.
+<br>
 
-min-fastapi-webserver is a very basic example of how to run a web server with fastapi, with directorys.
+Minmal-fastapi-webserver is a very basic example of how to run a fastapi website server.
 
+> [!NOTE]
+> - This project is currently being reworked and updated to fit modern standards.
 
 # How to use this?
 
