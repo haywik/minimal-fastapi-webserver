@@ -5,16 +5,16 @@
 Minimal-fastapi-webserver is a simple linux based example of a traversal webserver and a mini status page using FastAPI.
 
 > ## General summary of contents
-> `public` Stores all files that will be publicly accessable from the internet.
-> `.gitignore` Instructs git to ignore certain files, such as .venv.
-> `README.md` Well you looking at it.
-> `main.py` The main server scriptm, runs the FastAPI instance.
-> `requirements.txt` All the dependanices.
-> `run.sh` Runs main.py via the virtual enviroment.
+> - `public` Stores all files that will be publicly accessable from the internet.
+> - `.gitignore` Instructs git to ignore certain files, such as .venv.
+> - `README.md` Well you looking at it.
+> - `main.py` The main server scriptm, runs the FastAPI instance.
+> - `requirements.txt` All the dependanices.
+> - `run.sh` Runs main.py via the virtual enviroment.
 
 
 ## How to setup
-1. clone the repo, `git clone https://github.com/haywik/minimal-fastapi-webserver`
+1. Clone the repo, `git clone https://github.com/haywik/minimal-fastapi-webserver`
 2. Go into the repo, `cd minimal-fastapi-webserver`
 3. Make a python virutal enviroment, `python3 -m venv .venv`
 4. Activate the virutal enviroment, `source .venv/bin/activate` (If source does not works use a `.` instead of source)
